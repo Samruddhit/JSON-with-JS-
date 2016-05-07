@@ -1,0 +1,15 @@
+img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+img:hover {
+    border: 3px solid #777;
+}
+
+img  {
+    width:400;
+    height: 400;
+}
